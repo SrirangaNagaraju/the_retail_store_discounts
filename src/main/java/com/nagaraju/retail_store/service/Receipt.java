@@ -3,7 +3,7 @@ package com.nagaraju.retail_store.service;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.nagraju.retail_store.model.Products;
+import com.nagaraju.retail_store.model.Products;
 
 public class Receipt implements Bill{
 	private static final Logger logger = LoggerFactory.getLogger(Receipt.class);
