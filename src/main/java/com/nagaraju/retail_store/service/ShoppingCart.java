@@ -10,11 +10,11 @@ import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
-import com.nagraju.retail_store.model.Discounts;
-import com.nagraju.retail_store.model.ProductType;
-import com.nagraju.retail_store.model.Products;
+import com.nagaraju.retail_store.model.Discounts;
+import com.nagaraju.retail_store.model.ProductType;
+import com.nagaraju.retail_store.model.Products;
 import com.nagraju.retail_store.model.User;
-import com.nagraju.retail_store.model.UserType;
+import com.nagaraju.retail_store.model.UserType;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
