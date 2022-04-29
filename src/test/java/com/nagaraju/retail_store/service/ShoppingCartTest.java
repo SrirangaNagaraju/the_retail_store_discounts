@@ -13,16 +13,16 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.ComponentScan;
 
-import com.nagraju.retail_store.model.Discounts;
-import com.nagraju.retail_store.model.Product;
-import com.nagraju.retail_store.model.ProductType;
-import com.nagraju.retail_store.model.Products;
-import com.nagraju.retail_store.model.StoreDiscounts;
-import com.nagraju.retail_store.model.User;
-import com.nagraju.retail_store.model.UserType;
+import com.nagaraju.retail_store.model.Discounts;
+import com.nagaraju.retail_store.model.Product;
+import com.nagaraju.retail_store.model.ProductType;
+import com.nagaraju.retail_store.model.Products;
+import com.nagaraju.retail_store.model.StoreDiscounts;
+import com.nagaraju.retail_store.model.User;
+import com.nagaraju.retail_store.model.UserType;
 
 @ExtendWith(MockitoExtension.class)
-@ComponentScan(basePackages = { "com.nagaraju.retail_store.service", "com.nagraju.retail_store.model" })
+@ComponentScan(basePackages = { "com.nagaraju.retail_store.service", "com.nagaraju.retail_store.model" })
 public class ShoppingCartTest {
 	private static final Logger logger = LoggerFactory.getLogger(ShoppingCartTest.class);
 
