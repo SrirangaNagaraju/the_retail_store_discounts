@@ -12,7 +12,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.ComponentScan;
-
 import com.nagaraju.retail_store.model.Discounts;
 import com.nagaraju.retail_store.model.Product;
 import com.nagaraju.retail_store.model.ProductType;
