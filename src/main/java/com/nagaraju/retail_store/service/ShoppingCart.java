@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 import com.nagaraju.retail_store.model.Discounts;
 import com.nagaraju.retail_store.model.ProductType;
 import com.nagaraju.retail_store.model.Products;
-import com.nagraju.retail_store.model.User;
+import com.nagaraju.retail_store.model.User;
 import com.nagaraju.retail_store.model.UserType;
 
 import lombok.AllArgsConstructor;
