@@ -20,17 +20,17 @@ import org.springframework.context.annotation.ComponentScan;
 import com.nagaraju.retail_store.service.Cart;
 import com.nagaraju.retail_store.service.ShoppingCart;
 import com.nagaraju.retail_store.service.StoreService;
-import com.nagraju.retail_store.model.Discounts;
-import com.nagraju.retail_store.model.Product;
-import com.nagraju.retail_store.model.ProductType;
-import com.nagraju.retail_store.model.Products;
-import com.nagraju.retail_store.model.StoreDiscounts;
-import com.nagraju.retail_store.model.User;
-import com.nagraju.retail_store.model.UserType;
+import com.nagaraju.retail_store.model.Discounts;
+import com.nagaraju.retail_store.model.Product;
+import com.nagaraju.retail_store.model.ProductType;
+import com.nagaraju.retail_store.model.Products;
+import com.nagaraju.retail_store.model.StoreDiscounts;
+import com.nagaraju.retail_store.model.User;
+import com.nagaraju.retail_store.model.UserType;
 
 @ExtendWith(MockitoExtension.class)
 @ComponentScan(basePackages = { "com.nagaraju.retail_store.controller", "com.nagaraju.retail_store.service",
-		"com.nagraju.retail_store.model" })
+		"com.nagaraju.retail_store.model" })
 public class RestoreControllerTest {
 
 	private static final Logger logger = LoggerFactory.getLogger(RestoreControllerTest.class);
