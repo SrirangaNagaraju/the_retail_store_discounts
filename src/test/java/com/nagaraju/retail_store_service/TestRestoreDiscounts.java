@@ -13,13 +13,13 @@ import org.slf4j.LoggerFactory;
 import com.nagaraju.retail_store.controller.RestoreControllerTest;
 import com.nagaraju.retail_store.service.Cart;
 import com.nagaraju.retail_store.service.ShoppingCart;
-import com.nagraju.retail_store.model.Discounts;
-import com.nagraju.retail_store.model.Product;
-import com.nagraju.retail_store.model.ProductType;
-import com.nagraju.retail_store.model.Products;
-import com.nagraju.retail_store.model.StoreDiscounts;
-import com.nagraju.retail_store.model.User;
-import com.nagraju.retail_store.model.UserType;
+import com.nagaraju.retail_store.model.Discounts;
+import com.nagaraju.retail_store.model.Product;
+import com.nagaraju.retail_store.model.ProductType;
+import com.nagaraju.retail_store.model.Products;
+import com.nagaraju.retail_store.model.StoreDiscounts;
+import com.nagaraju.retail_store.model.User;
+import com.nagaraju.retail_store.model.UserType;
 
 public class TestRestoreDiscounts {
 
