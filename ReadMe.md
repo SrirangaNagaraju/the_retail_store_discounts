@@ -12,7 +12,9 @@ This is mini project for retails store which uses discounts as motivator for buy
 * Junit using Mockito and Junit5.
 * intellij/Eclipse/STS to run and test the project.
 
-Since this is using a spring boot project you can directly run the TheRetailStoreDiscountsApplication.java class or using postman aslo(both implemention in this application).
+This is using a spring boot project you can directly run the TheRetailStoreDiscountsApplication.java class or using postman aslo(both implemention in this application).
+
+**This application is using two ways approched it One ways is Restful Webservices through postman and another one SpringBoot Application.
 
 Run mvn clean test from the root folder, the JaCoCo code coverage report will be generated at target/site/jacoco/*
 Open the target/site/jacoco/index.html file, review the code coverage report.
